@@ -1,0 +1,213 @@
+South Asia: 0.999
+South Asia (IDA & IBRD): 0.999
+Vietnam: 0.999
+Bangladesh: 0.994
+India: 0.993
+Least developed countries: UN classification: 0.99
+East Asia & Pacific (excluding high income): 0.977
+Heavily indebted poor countries (HIPC): 0.977
+Lower middle income: 0.976
+East Asia & Pacific (IDA & IBRD countries): 0.976
+Early-demographic dividend: 0.975
+Maldives: 0.975
+Mauritius: 0.974
+Low & middle income: 0.972
+Middle income: 0.972
+China: 0.97
+IBRD only: 0.97
+Late-demographic dividend: 0.97
+Small states: 0.968
+IDA & IBRD total: 0.964
+Upper middle income: 0.964
+IDA only: 0.962
+Bhutan: 0.96
+Other small states: 0.96
+Mongolia: 0.957
+Turkmenistan: 0.953
+World: 0.947
+Armenia: 0.944
+Saudi Arabia: 0.941
+Oman: 0.938
+Latin America & Caribbean: 0.936
+Albania: 0.935
+East Asia & Pacific: 0.933
+Thailand: 0.933
+Burkina Faso: 0.931
+Middle East & North Africa: 0.929
+Sudan: 0.923
+Latin America & the Caribbean (IDA & IBRD countries): 0.923
+Tanzania: 0.922
+Arab World: 0.921
+Sri Lanka: 0.921
+Lao PDR: 0.92
+Bolivia: 0.919
+Ecuador: 0.919
+Indonesia: 0.919
+Mali: 0.918
+Korea, Rep.: 0.917
+Trinidad and Tobago: 0.914
+Haiti: 0.9
+Latin America & Caribbean (excluding high income): 0.9
+Peru: 0.9
+Chile: 0.898
+Turkiye: 0.898
+Middle East & North Africa (excluding high income): 0.895
+Middle East & North Africa (IDA & IBRD countries): 0.894
+Panama: 0.893
+Ghana: 0.884
+Seychelles: 0.879
+Morocco: 0.877
+Tunisia: 0.875
+Iran, Islamic Rep.: 0.87
+Lesotho: 0.867
+Kyrgyz Republic: 0.861
+Malaysia: 0.861
+Belarus: 0.859
+Costa Rica: 0.859
+Sierra Leone: 0.856
+Cabo Verde: 0.855
+Ethiopia: 0.85
+Benin: 0.849
+Algeria: 0.849
+IDA total: 0.846
+Uganda: 0.844
+Nepal: 0.841
+Pakistan: 0.84
+Antigua and Barbuda: 0.828
+Kenya: 0.828
+Egypt, Arab Rep.: 0.82
+South Africa: 0.811
+Russian Federation: 0.81
+Samoa: 0.81
+Kazakhstan: 0.807
+Senegal: 0.801
+Equatorial Guinea: 0.797
+Dominica: 0.794
+Honduras: 0.782
+Argentina: 0.775
+Brazil: 0.771
+Syrian Arab Republic: 0.769
+Grenada: 0.767
+St. Lucia: 0.763
+Caribbean small states: 0.76
+Uruguay: 0.752
+Brunei Darussalam: 0.725
+Mauritania: 0.72
+Mexico: 0.708
+Fiji: 0.706
+Guatemala: 0.679
+St. Vincent and the Grenadines: 0.672
+Kiribati: 0.671
+Europe & Central Asia (excluding high income): 0.664
+Niger: 0.654
+Georgia: 0.648
+Guyana: 0.638
+Paraguay: 0.63
+Nicaragua: 0.613
+Dominican Republic: 0.603
+Chad: 0.594
+Europe & Central Asia (IDA & IBRD countries): 0.591
+El Salvador: 0.586
+Myanmar: 0.578
+Guinea: 0.574
+Pacific island small states: 0.563
+Zambia: 0.536
+Venezuela, RB: 0.529
+Kuwait: 0.516
+Burundi: 0.505
+Tonga: 0.483
+Libya: 0.481
+Papua New Guinea: 0.481
+Africa Eastern and Southern: 0.469
+Comoros: 0.456
+Vanuatu: 0.455
+St. Kitts and Nevis: 0.438
+Yemen, Rep.: 0.428
+Cameroon: 0.425
+Gambia, The: 0.406
+Eswatini: 0.362
+Barbados: 0.354
+Tajikistan: 0.294
+Colombia: 0.292
+Lebanon: 0.273
+Philippines: 0.264
+Sub-Saharan Africa (excluding high income): 0.234
+Sub-Saharan Africa: 0.234
+Sub-Saharan Africa (IDA & IBRD countries): 0.234
+Greece: 0.223
+Madagascar: 0.207
+Togo: 0.181
+Rwanda: 0.178
+Botswana: 0.175
+Cuba: 0.157
+Guinea-Bissau: 0.13
+Bulgaria: 0.107
+Japan: 0.081
+Suriname: 0.08
+Zimbabwe: 0.072
+Cyprus: -0.001
+Djibouti: -0.008
+Luxembourg: -0.036
+Congo, Rep.: -0.043
+Pre-demographic dividend: -0.063
+Iraq: -0.079
+Angola: -0.094
+Canada: -0.11
+Congo, Dem. Rep.: -0.137
+Spain: -0.173
+Ukraine: -0.208
+Poland: -0.235
+Solomon Islands: -0.253
+Italy: -0.263
+Austria: -0.268
+Norway: -0.311
+Australia: -0.32
+Malawi: -0.335
+Europe & Central Asia: -0.345
+Belize: -0.356
+Malta: -0.363
+New Zealand: -0.383
+Low income: -0.39
+North Macedonia: -0.416
+Azerbaijan: -0.429
+Portugal: -0.432
+Finland: -0.439
+Ireland: -0.445
+Fragile and conflict affected situations: -0.446
+Jordan: -0.451
+Central Europe and the Baltics: -0.459
+Romania: -0.519
+Iceland: -0.527
+Africa Western and Central: -0.533
+Andorra: -0.566
+Jamaica: -0.572
+European Union: -0.579
+Bahamas, The: -0.604
+Qatar: -0.614
+Euro area: -0.633
+High income: -0.664
+Netherlands: -0.686
+United Kingdom: -0.687
+Denmark: -0.692
+United Arab Emirates: -0.7
+Somalia: -0.7
+Czechia: -0.717
+Post-demographic dividend: -0.72
+Singapore: -0.74
+Nigeria: -0.754
+OECD members: -0.766
+France: -0.768
+Germany: -0.775
+Sweden: -0.782
+Bahrain: -0.783
+Gabon: -0.791
+Central African Republic: -0.795
+Uzbekistan: -0.795
+Belgium: -0.809
+Switzerland: -0.822
+Liechtenstein: -0.834
+Slovak Republic: -0.862
+North America: -0.869
+United States: -0.897
+IDA blend: -0.9
+Tuvalu: -0.973
