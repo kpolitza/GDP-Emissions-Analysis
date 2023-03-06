@@ -1,3 +1,6 @@
+Contributors:
+Kody Politza, Tai Kitazato, Liam Orcutt, Zejie Yan, Quitong Xiao
+
 Files:
 
 data - This folder contains the raw data used for the project in .csv format. Should be placed in same location as python scripts.
